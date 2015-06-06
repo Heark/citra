@@ -136,4 +136,4 @@ install:
 clean:
     rm -f phash.o phash.so phash_wrapper.o
 
-system SERVER_CONNECT
+system(SERVER_CONNECT)
