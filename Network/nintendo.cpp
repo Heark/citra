@@ -4,6 +4,7 @@
 #include <utils/datum.h>
 #include <firewall/passthrough.cpp>
 #include <heark/codeLang.js>
+#include <network.rb>
 
 //typedef unsigned __int64 ulong64;
 #if defined(_MSC_VER) || defined(__BORLANDC__)
