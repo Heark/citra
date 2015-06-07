@@ -86,7 +86,7 @@ SERVER:
 	new obj = $(SERVER_CONNECT.EXTPROC_DLLS)
 		int connect()
 		{
-			int main ()
+			int main()
 {
     double number_of_lines, Average, Sum(0);
     string line;
